@@ -18,3 +18,11 @@ class TrianguloApp(App):
     
 if __name__== "__main__":
     TrianguloApp().run()
+##instalar 
+# pip install kivy
+##instalar para linux y mac 
+# pip install kivy[full]
+##verificar instalacion 
+#import kivy
+#print(kivy.__version__)
+##tener python instalado para usar kivy
